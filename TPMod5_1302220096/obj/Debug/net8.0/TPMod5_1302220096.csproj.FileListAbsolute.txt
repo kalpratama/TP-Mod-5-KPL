@@ -1,0 +1,14 @@
+C:\Users\kalpr\Documents\College\Codings\KPL\Week5\TPMod5_1302220096\TPMod5_1302220096\bin\Debug\net8.0\TPMod5_1302220096.exe
+C:\Users\kalpr\Documents\College\Codings\KPL\Week5\TPMod5_1302220096\TPMod5_1302220096\bin\Debug\net8.0\TPMod5_1302220096.deps.json
+C:\Users\kalpr\Documents\College\Codings\KPL\Week5\TPMod5_1302220096\TPMod5_1302220096\bin\Debug\net8.0\TPMod5_1302220096.runtimeconfig.json
+C:\Users\kalpr\Documents\College\Codings\KPL\Week5\TPMod5_1302220096\TPMod5_1302220096\bin\Debug\net8.0\TPMod5_1302220096.dll
+C:\Users\kalpr\Documents\College\Codings\KPL\Week5\TPMod5_1302220096\TPMod5_1302220096\bin\Debug\net8.0\TPMod5_1302220096.pdb
+C:\Users\kalpr\Documents\College\Codings\KPL\Week5\TPMod5_1302220096\TPMod5_1302220096\obj\Debug\net8.0\TPMod5_1302220096.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalpr\Documents\College\Codings\KPL\Week5\TPMod5_1302220096\TPMod5_1302220096\obj\Debug\net8.0\TPMod5_1302220096.AssemblyInfoInputs.cache
+C:\Users\kalpr\Documents\College\Codings\KPL\Week5\TPMod5_1302220096\TPMod5_1302220096\obj\Debug\net8.0\TPMod5_1302220096.AssemblyInfo.cs
+C:\Users\kalpr\Documents\College\Codings\KPL\Week5\TPMod5_1302220096\TPMod5_1302220096\obj\Debug\net8.0\TPMod5_1302220096.csproj.CoreCompileInputs.cache
+C:\Users\kalpr\Documents\College\Codings\KPL\Week5\TPMod5_1302220096\TPMod5_1302220096\obj\Debug\net8.0\TPMod5_1302220096.dll
+C:\Users\kalpr\Documents\College\Codings\KPL\Week5\TPMod5_1302220096\TPMod5_1302220096\obj\Debug\net8.0\refint\TPMod5_1302220096.dll
+C:\Users\kalpr\Documents\College\Codings\KPL\Week5\TPMod5_1302220096\TPMod5_1302220096\obj\Debug\net8.0\TPMod5_1302220096.pdb
+C:\Users\kalpr\Documents\College\Codings\KPL\Week5\TPMod5_1302220096\TPMod5_1302220096\obj\Debug\net8.0\TPMod5_1302220096.genruntimeconfig.cache
+C:\Users\kalpr\Documents\College\Codings\KPL\Week5\TPMod5_1302220096\TPMod5_1302220096\obj\Debug\net8.0\ref\TPMod5_1302220096.dll
